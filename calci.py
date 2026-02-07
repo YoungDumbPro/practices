@@ -1,6 +1,6 @@
 # Calculator Application
 
-print("--- Calci by PY ---")
+print("--- Calci by Py ---")
 
 def add( a, b):
    """
